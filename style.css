@@ -32,7 +32,7 @@ footer img {
   position: relative;
 }
 
-.nav-flex-container {
+.nav-flex-container a {
   display: flex;
   justify-content: space-around;
   position: absolute;
@@ -51,6 +51,7 @@ footer img {
   );
   align-items: stretch;
   height: 8%;
+  text-decoration: none;
 }
 
 .flex-items {
@@ -65,6 +66,9 @@ footer img {
 
 .item9 {
   border-right: none;
+  cursor: default;
+  text-decoration: none;
+  color: black;
 }
 
 .item1 img {
