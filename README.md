@@ -5,7 +5,7 @@
 ![screenshot](./images/apple_site.png)
 
 Live Demo
-http://htmlpreview.github.io/?https://github.com/e71az/Apple-Clone/blob/development/index.html
+https://raw.githack.com/e71az/Apple-Clone/development/index.html#
 
 ## Built With
 
