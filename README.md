@@ -5,7 +5,7 @@
 ![screenshot](./images/apple_site.png)
 
 Live Demo
-https://rawcdn.githack.com/SajjadAhmad14/New-York-Times-Website-Copy/8d711c098606a00c7e3303dfefbddb4abb3b9dd6/index.html
+http://htmlpreview.github.io/?https://github.com/e71az/Apple-Clone/blob/development/index.html
 
 ## Built With
 
