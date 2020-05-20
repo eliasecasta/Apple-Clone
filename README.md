@@ -33,4 +33,5 @@ Give a ⭐️ if you like this project!
 ## How To Clone The Site
 
 1: Go to https://github.com/e71az/Apple-Clone.git
+
 2: Open index.html file in your favourite browser.
