@@ -1,0 +1,11 @@
+linters:
+  stylelint:
+    config: "./stylelint.config.js"
+
+files:
+  ignore:
+    - "css/normalize.css"
+    - "images/"
+
+fixers:
+  enable: true
